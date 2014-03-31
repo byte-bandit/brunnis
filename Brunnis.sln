@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brunnis", "Brunnis\Brunnis.csproj", "{DA50581B-9351-4CE4-9550-B74B24A1C41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA50581B-9351-4CE4-9550-B74B24A1C41F}.Debug|x86.ActiveCfg = Debug|x86
+		{DA50581B-9351-4CE4-9550-B74B24A1C41F}.Debug|x86.Build.0 = Debug|x86
+		{DA50581B-9351-4CE4-9550-B74B24A1C41F}.Release|x86.ActiveCfg = Release|x86
+		{DA50581B-9351-4CE4-9550-B74B24A1C41F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Brunnis\Brunnis.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.RemoveTrailingWhitespace = True
+		$1.EolMarker = Windows
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.StandardHeader = $3
+		$3.Text = @\n ${FileName}\n \n Author:\n      ${AuthorName} <${AuthorEmail}>\n \n Copyright (c) ${Year} ${CopyrightHolder}\n\n This program is free software: you can redistribute it and/or modify\n it under the terms of the GNU Lesser General Public License as published by\n the Free Software Foundation, either version 3 of the License, or\n (at your option) any later version.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY; without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n GNU Lesser General Public License for more details.\n\n You should have received a copy of the GNU Lesser General Public License\n along with this program.  If not, see <http://www.gnu.org/licenses/>.
+		$3.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
